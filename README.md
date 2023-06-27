@@ -14,7 +14,7 @@ Fisher gathered 50 samples of each Iris species, for a total of 150 samples in t
 
 The Iris dataset is widely used in statistics, machine learning, and pattern recognition for teaching and learning. It is a simple yet adaptable dataset for classification, clustering, and visualization.
 
-The Iris dataset can be found in a variety of machine learning libraries and repositories, including the UCI Machine Learning Repository. It has become a typical benchmark dataset in the area, with many people using it to test and compare the performance of various machine-learning methods.
+The Iris dataset can be found in a variety of machine learning libraries and repositories, including the UCI Machine Learning Repository. It has become a typical benchmark dataset in the area, with many people using it to test and compare the performance of various machine learning methods.
 
 
 
