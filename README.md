@@ -1,9 +1,10 @@
 # IRIS-Classification
 
-The IRIS dataset is a frequently used and popular dataset in machine learning and pattern recognition. Ronald Fisher, a British statistician and biologist, proposed the IRIS dataset in 1936. Fisher gathered the data to demonstrate the use of statistical approaches in distinguishing between distinct iris flower species based on morphological characteristics. The dataset is made up of four measurements:
-• Sepal length (measured in centimetres)
-• Sepal width (measured in centimetres)
-• Petal length (measured in centimetres) 
+The IRIS dataset is a frequently used and popular dataset in machine learning and pattern recognition. Ronald Fisher, a British statistician, and biologist, proposed the IRIS dataset in 1936. Fisher gathered the data to demonstrate the use of statistical approaches in distinguishing between distinct iris flower species based on morphological characteristics. The dataset is made up of four measurements:
+
+• Sepal length (measured in centimeters)
+• Sepal width (measured in centimeters)
+• Petal length (measured in centimeters) 
 • petal width  (measured in centimeters)
 
 Fisher gathered 50 samples of each Iris species, for a total of 150 samples in the collection. Typically, the purpose of using this dataset is to classify fresh observations based on measurements of these attributes.
