@@ -4,7 +4,7 @@ The IRIS dataset is a frequently used and popular dataset in machine learning an
 
 • Sepal length (measured in centimeters)
 
-• Sepal width (measured in centimeters)
+• Sepal width  (measured in centimeters)
 
 • Petal length (measured in centimeters) 
 
